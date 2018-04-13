@@ -8,4 +8,5 @@ Tennis Pong est un remake du célèbre jeu de pong premièrement édité par Ata
 2. Les murs accelèrent la balle
 3. Les bords des pads renvoient la balle de leurs côtés
 4. Quand la balle atterit derrière le pad adverse il y a point
-5. Have fun !
+5. Touches: Q & D pour le joueur rouge et Left/Right Arrow pour le joueur bleu
+6. Have fun !
